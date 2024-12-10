@@ -8,3 +8,4 @@
 ```
 docker compose exec server bash -c 'npx sequelize db:migrate'
 ```
+#### Fazendo minhas alterações Fábio Nogueira
